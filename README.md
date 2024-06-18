@@ -6,4 +6,5 @@ I am a  software developer interested in web development, with a particular focu
 Here you'll find a collection of my projects, contributions, and explorations.
 
 💬 Ask me about anything related to Web Development and related tech stack - React, Firebase
+
 📫 Feel free to reach out to me via email or connect with me on LinkedIn
